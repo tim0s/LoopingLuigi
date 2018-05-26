@@ -1,0 +1,16 @@
+Battery           Speed
+
+        Mode
+        Play
+        Stop
+
+
+On click, enter the menu.
+
+
+Mode:
+  Random
+  Preset Speed
+  Exit
+
+
